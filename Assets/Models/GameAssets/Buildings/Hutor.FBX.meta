@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: ae178e3947d1be847a6ef2ba88a52ebf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Shtak_08
+    100002: Shtak_07
+    100004: Shtak_06
+    100006: Shtak_05
+    100008: Shtak_04
+    100010: Shtak_break
+    100012: Shtak_03
+    100014: Shtak_02
+    100016: Shtak_01
+    100018: Tualet
+    100020: lavka
+    100022: Hut
+    100024: //RootNode
+    100026: Shtak_break03
+    100028: kalitka
+    100030: Shtak_kalitka 1
+    100032: Shtak_kalitka
+    100034: Shtak_break02
+    100036: Shtak_22
+    100038: Shtak_21
+    100040: Shtak_20
+    100042: Shtak_19
+    100044: Shtak_18
+    100046: Shtak_16
+    100048: Shtak_15
+    100050: Shtak_14
+    100052: Shtak_13
+    100054: Shtak_12
+    100056: Shtak_11
+    100058: Shtak_10
+    100060: Shtak_break01
+    100062: Shtak_09
+    400000: Shtak_08
+    400002: Shtak_07
+    400004: Shtak_06
+    400006: Shtak_05
+    400008: Shtak_04
+    400010: Shtak_break
+    400012: Shtak_03
+    400014: Shtak_02
+    400016: Shtak_01
+    400018: Tualet
+    400020: lavka
+    400022: Hut
+    400024: //RootNode
+    400026: Shtak_break03
+    400028: kalitka
+    400030: Shtak_kalitka 1
+    400032: Shtak_kalitka
+    400034: Shtak_break02
+    400036: Shtak_22
+    400038: Shtak_21
+    400040: Shtak_20
+    400042: Shtak_19
+    400044: Shtak_18
+    400046: Shtak_16
+    400048: Shtak_15
+    400050: Shtak_14
+    400052: Shtak_13
+    400054: Shtak_12
+    400056: Shtak_11
+    400058: Shtak_10
+    400060: Shtak_break01
+    400062: Shtak_09
+    2300000: Shtak_08
+    2300002: Shtak_07
+    2300004: Shtak_06
+    2300006: Shtak_05
+    2300008: Shtak_04
+    2300010: Shtak_break
+    2300012: Shtak_03
+    2300014: Shtak_02
+    2300016: Shtak_01
+    2300018: Tualet
+    2300020: lavka
+    2300022: Hut
+    2300024: Shtak_break03
+    2300026: kalitka
+    2300028: Shtak_kalitka 1
+    2300030: Shtak_break02
+    2300032: Shtak_22
+    2300034: Shtak_21
+    2300036: Shtak_20
+    2300038: Shtak_19
+    2300040: Shtak_18
+    2300042: Shtak_16
+    2300044: Shtak_15
+    2300046: Shtak_14
+    2300048: Shtak_13
+    2300050: Shtak_12
+    2300052: Shtak_11
+    2300054: Shtak_10
+    2300056: Shtak_break01
+    2300058: Shtak_09
+    3300000: Shtak_08
+    3300002: Shtak_07
+    3300004: Shtak_06
+    3300006: Shtak_05
+    3300008: Shtak_04
+    3300010: Shtak_break
+    3300012: Shtak_03
+    3300014: Shtak_02
+    3300016: Shtak_01
+    3300018: Tualet
+    3300020: lavka
+    3300022: Hut
+    3300024: Shtak_break03
+    3300026: kalitka
+    3300028: Shtak_kalitka 1
+    3300030: Shtak_break02
+    3300032: Shtak_22
+    3300034: Shtak_21
+    3300036: Shtak_20
+    3300038: Shtak_19
+    3300040: Shtak_18
+    3300042: Shtak_16
+    3300044: Shtak_15
+    3300046: Shtak_14
+    3300048: Shtak_13
+    3300050: Shtak_12
+    3300052: Shtak_11
+    3300054: Shtak_10
+    3300056: Shtak_break01
+    3300058: Shtak_09
+    4300000: Hut
+    4300002: lavka
+    4300004: Tualet
+    4300006: Shtak_01
+    4300008: Shtak_02
+    4300010: Shtak_03
+    4300012: Shtak_break
+    4300014: Shtak_04
+    4300016: Shtak_05
+    4300018: Shtak_06
+    4300020: Shtak_07
+    4300022: Shtak_08
+    4300024: Shtak_09
+    4300026: Shtak_break01
+    4300028: Shtak_10
+    4300030: Shtak_11
+    4300032: Shtak_12
+    4300034: Shtak_13
+    4300036: Shtak_14
+    4300038: Shtak_15
+    4300040: Shtak_16
+    4300042: Shtak_18
+    4300044: Shtak_19
+    4300046: Shtak_20
+    4300048: Shtak_21
+    4300050: Shtak_22
+    4300052: Shtak_break02
+    4300054: Shtak_kalitka
+    4300056: kalitka
+    4300058: Shtak_break03
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hut_ext_bump
+    second: {fileID: 2100000, guid: 9c72ae3ad16b090499b03b6d0bbaa1d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat1
+    second: {fileID: 2100000, guid: 9c72ae3ad16b090499b03b6d0bbaa1d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

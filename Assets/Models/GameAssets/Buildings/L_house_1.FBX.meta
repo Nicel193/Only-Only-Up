@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 1335afeb2de3515438cd92005bc5a4e5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Roof
+    100004: 2Floor
+    100006: 1Floor
+    100008: door.008
+    100010: 2floor_glass
+    100012: 2floor_windows
+    100014: door.7
+    100016: door.6
+    100018: glass.4
+    100020: door.5
+    100022: doorpost.5
+    100024: window
+    100026: 1 floor
+    100028: Lhouse_door.009
+    100030: doorpost.009
+    100032: Smoke_Tubes
+    100034: Lhouse_door.8
+    100036: doorpost.8
+    100038: plita.3
+    100040: plita.2
+    100042: plita
+    100044: floor
+    100046: imitation
+    100048: imitation.1
+    100050: 2floor
+    100052: roof
+    400000: //RootNode
+    400002: Roof
+    400004: 2Floor
+    400006: 1Floor
+    400008: door.008
+    400010: 2floor_glass
+    400012: 2floor_windows
+    400014: door.7
+    400016: door.6
+    400018: glass.4
+    400020: door.5
+    400022: doorpost.5
+    400024: window
+    400026: 1 floor
+    400028: Lhouse_door.009
+    400030: doorpost.009
+    400032: Smoke_Tubes
+    400034: Lhouse_door.8
+    400036: doorpost.8
+    400038: plita.3
+    400040: plita.2
+    400042: plita
+    400044: floor
+    400046: imitation
+    400048: imitation.1
+    400050: 2floor
+    400052: roof
+    2300000: Smoke_Tubes
+    2300006: door.008
+    2300008: 2floor_glass
+    2300010: 2floor_windows
+    2300012: door.7
+    2300014: door.6
+    2300016: glass.4
+    2300018: door.5
+    2300020: doorpost.5
+    2300022: window
+    2300024: 1 floor
+    2300026: Lhouse_door.009
+    2300028: doorpost.009
+    2300032: Lhouse_door.8
+    2300034: doorpost.8
+    2300036: plita.3
+    2300038: plita.2
+    2300040: plita
+    2300042: floor
+    2300044: imitation
+    2300046: imitation.1
+    2300048: 2floor
+    2300050: roof
+    3300000: Smoke_Tubes
+    3300006: door.008
+    3300008: 2floor_glass
+    3300010: 2floor_windows
+    3300012: door.7
+    3300014: door.6
+    3300016: glass.4
+    3300018: door.5
+    3300020: doorpost.5
+    3300022: window
+    3300024: 1 floor
+    3300026: Lhouse_door.009
+    3300028: doorpost.009
+    3300032: Lhouse_door.8
+    3300034: doorpost.8
+    3300036: plita.3
+    3300038: plita.2
+    3300040: plita
+    3300042: floor
+    3300044: imitation
+    3300046: imitation.1
+    3300048: 2floor
+    3300050: roof
+    4300000: roof
+    4300002: 2floor
+    4300004: imitation.1
+    4300006: imitation
+    4300008: floor
+    4300010: plita
+    4300012: plita.2
+    4300014: plita.3
+    4300016: doorpost.8
+    4300018: Lhouse_door.8
+    4300020: lags
+    4300022: doorpost.009
+    4300024: Lhouse_door.009
+    4300026: 1 floor
+    4300028: window
+    4300030: doorpost.5
+    4300032: door.5
+    4300034: glass.4
+    4300036: Lhouse_Floor_colaider
+    4300038: door.6
+    4300040: door.7
+    4300042: 2floor_windows
+    4300044: 2floor_glass
+    4300046: door.008
+    4300048: 1 floor_LOD1
+    4300050: 2floor_LOD1
+    4300052: roof_LOD1
+    4300054: Smoke_Tubes
+    6400000: door.7
+    6400002: roof
+    6400004: Smoke_Tubes
+    6400006: door.5
+    6400008: imitation.1
+    6400010: plita
+    6400012: plita.2
+    6400014: Lhouse_door.8
+    6400016: plita.3
+    6400018: 2floor_glass
+    6400020: 2floor_windows
+    6400022: door.6
+    6400024: imitation
+    6400026: 2floor
+    6400028: window
+    6400030: doorpost.8
+    6400032: doorpost.009
+    6400034: door.008
+    6400036: glass.4
+    6400038: Lhouse_door.009
+    6400040: doorpost.5
+    6400042: floor
+    6400044: 1 floor
+    7400000: Take 001
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.3
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

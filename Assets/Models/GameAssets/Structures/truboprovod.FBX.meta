@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: cd21b19cc7772e34a841201087783f4b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Postament004
+    100004: Postament003
+    100006: Postament002
+    100008: Postament001
+    100010: Postament
+    100012: 90turn015
+    100014: Object004
+    100016: Object003
+    100018: truba012
+    100020: truba011
+    100022: Object002
+    100024: truba.04
+    100026: 5m isolation01
+    100028: 5m isolation03
+    100030: 5m broken
+    100032: 5m isolation
+    100034: 5m broken.2
+    100036: 5m isolation.2
+    100038: truba.05
+    100040: 90turn02
+    100042: 90turn03
+    100044: 90turn04
+    100046: 90turn06
+    100048: 90turn09
+    100050: 90turn10
+    100052: 10m05
+    100054: 90turn12
+    100056: 90turn13
+    100058: 90turn14
+    100060: 5m broken001
+    100062: Object001
+    100064: truba.03
+    100066: truba10
+    100068: truba02
+    100070: truba04
+    100072: truba05
+    100074: truba06
+    100076: truba09
+    100078: 2.5m isolation broken.007
+    100080: 2.5m isolation broken.2
+    100082: 2.5m isolation broken01
+    100084: 2.5m isolation broken.04
+    100086: 2.5m isolation broken03
+    100088: 2.5m isolation broken.06
+    100090: 2.5m isolation broken04
+    400000: //RootNode
+    400002: Postament004
+    400004: Postament003
+    400006: Postament002
+    400008: Postament001
+    400010: Postament
+    400012: 90turn015
+    400014: Object004
+    400016: Object003
+    400018: truba012
+    400020: truba011
+    400022: Object002
+    400024: truba.04
+    400026: 5m isolation01
+    400028: 5m isolation03
+    400030: 5m broken
+    400032: 5m isolation
+    400034: 5m broken.2
+    400036: 5m isolation.2
+    400038: truba.05
+    400040: 90turn02
+    400042: 90turn03
+    400044: 90turn04
+    400046: 90turn06
+    400048: 90turn09
+    400050: 90turn10
+    400052: 10m05
+    400054: 90turn12
+    400056: 90turn13
+    400058: 90turn14
+    400060: 5m broken001
+    400062: Object001
+    400064: truba.03
+    400066: truba10
+    400068: truba02
+    400070: truba04
+    400072: truba05
+    400074: truba06
+    400076: truba09
+    400078: 2.5m isolation broken.007
+    400080: 2.5m isolation broken.2
+    400082: 2.5m isolation broken01
+    400084: 2.5m isolation broken.04
+    400086: 2.5m isolation broken03
+    400088: 2.5m isolation broken.06
+    400090: 2.5m isolation broken04
+    2300000: Postament004
+    2300002: Postament003
+    2300004: Postament002
+    2300006: Postament001
+    2300008: Postament
+    2300010: 90turn015
+    2300012: Object004
+    2300014: Object003
+    2300016: truba012
+    2300018: truba011
+    2300020: Object002
+    2300022: truba.04
+    2300024: 5m isolation01
+    2300026: 5m isolation03
+    2300028: 5m broken
+    2300030: 5m isolation
+    2300032: 5m broken.2
+    2300034: 5m isolation.2
+    2300036: truba.05
+    2300038: 90turn02
+    2300040: 90turn03
+    2300042: 90turn04
+    2300044: 90turn06
+    2300046: 90turn09
+    2300048: 90turn10
+    2300050: 10m05
+    2300052: 90turn12
+    2300054: 90turn13
+    2300056: 90turn14
+    2300058: 5m broken001
+    2300060: Object001
+    2300062: truba.03
+    2300064: truba10
+    2300066: truba02
+    2300068: truba04
+    2300070: truba05
+    2300072: truba06
+    2300074: truba09
+    2300076: 2.5m isolation broken.007
+    2300078: 2.5m isolation broken.2
+    2300080: 2.5m isolation broken01
+    2300082: 2.5m isolation broken.04
+    2300084: 2.5m isolation broken03
+    2300086: 2.5m isolation broken.06
+    2300088: 2.5m isolation broken04
+    3300000: Postament004
+    3300002: Postament003
+    3300004: Postament002
+    3300006: Postament001
+    3300008: Postament
+    3300010: 90turn015
+    3300012: Object004
+    3300014: Object003
+    3300016: truba012
+    3300018: truba011
+    3300020: Object002
+    3300022: truba.04
+    3300024: 5m isolation01
+    3300026: 5m isolation03
+    3300028: 5m broken
+    3300030: 5m isolation
+    3300032: 5m broken.2
+    3300034: 5m isolation.2
+    3300036: truba.05
+    3300038: 90turn02
+    3300040: 90turn03
+    3300042: 90turn04
+    3300044: 90turn06
+    3300046: 90turn09
+    3300048: 90turn10
+    3300050: 10m05
+    3300052: 90turn12
+    3300054: 90turn13
+    3300056: 90turn14
+    3300058: 5m broken001
+    3300060: Object001
+    3300062: truba.03
+    3300064: truba10
+    3300066: truba02
+    3300068: truba04
+    3300070: truba05
+    3300072: truba06
+    3300074: truba09
+    3300076: 2.5m isolation broken.007
+    3300078: 2.5m isolation broken.2
+    3300080: 2.5m isolation broken01
+    3300082: 2.5m isolation broken.04
+    3300084: 2.5m isolation broken03
+    3300086: 2.5m isolation broken.06
+    3300088: 2.5m isolation broken04
+    4300000: truba09
+    4300002: truba06
+    4300004: truba05
+    4300006: truba04
+    4300008: truba02
+    4300010: 2.5m isolation broken04
+    4300012: truba10
+    4300014: truba.03
+    4300016: Object001
+    4300018: 5m broken001
+    4300020: 2.5m isolation broken.06
+    4300022: 90turn14
+    4300024: 90turn13
+    4300026: 90turn12
+    4300028: 10m05
+    4300030: 90turn10
+    4300032: 90turn09
+    4300034: 90turn06
+    4300036: 2.5m isolation broken03
+    4300038: 2.5m isolation broken.04
+    4300040: 90turn04
+    4300042: 90turn03
+    4300044: 2.5m isolation broken01
+    4300046: 90turn02
+    4300048: 2.5m isolation broken.2
+    4300050: truba.05
+    4300052: 5m isolation.2
+    4300054: 5m broken.2
+    4300056: 5m isolation
+    4300058: 5m broken
+    4300060: 5m isolation03
+    4300062: 5m isolation01
+    4300064: truba.04
+    4300066: 2.5m isolation broken.007
+    4300068: Object002
+    4300070: truba011
+    4300072: truba012
+    4300074: Object003
+    4300076: Object004
+    4300078: 90turn015
+    4300080: Postament
+    4300082: Postament001
+    4300084: Postament002
+    4300086: Postament003
+    4300088: Postament004
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
